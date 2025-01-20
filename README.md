@@ -21,11 +21,11 @@ This is a simple command-line gambling simulator written in Python. It allows us
     ```
 3.  **Navigate to the Directory:**
     ```bash
-    cd <your-repo-name>
+    cd <Python-project>
     ```
 4.  **Run the Script:**
     ```bash
-    python main.py  # Or whatever your main script file is named
+    python main.py  
     ```
 
 ## Game Logic
@@ -44,8 +44,6 @@ The game flow is as follows:
 ## Code Structure
 
 *   `main.py` (or your main script): Contains the main game loop and user interaction logic.
-*   `utils.py` (optional): May contain helper functions for generating spins, checking for wins, etc. (Good practice to separate logic).
-*   Other files as needed.
 
 ## Example
 
